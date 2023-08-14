@@ -1,4 +1,28 @@
+body{
+    background: #232F3F;
+    color: #fff;
+}
+
 .Hero{
     display: flex;
-    justify-content: space-around;
+}
+
+.Hero a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.Menu{
+    display: flex;
+    flex-basis: 33%;
+}
+
+.Search{
+    display: flex;
+    flex-basis: 33%;
+}
+
+.Buy_Signin{
+    display: flex;
+    flex-basis: 33%;
 }
